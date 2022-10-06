@@ -75,9 +75,10 @@ body{
 }
 
 .card-title{
-    font-size: 2.2rem;
+    font-size: 2.8rem;
     color: var(--dark-blue);  
     margin-bottom: 17px;
+    font-weight: 900;
 }
 
 .card-description{
